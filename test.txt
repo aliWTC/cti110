@@ -1,1 +1,5 @@
 test
+
+A tool for teachers where they can create tests, quizzes, this will also
+be a website for teachers to release study sets for their students. 
+This will track insights and percentages
